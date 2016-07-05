@@ -1,0 +1,6 @@
+{
+  "public": {
+    "timezone": "America/Los_Angeles"
+  },
+  "mongoUrl": "mongodb://user:password@localhost:3001"
+}
